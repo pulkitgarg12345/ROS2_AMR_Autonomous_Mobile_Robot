@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/robotics-05/ros2_ws/install/arjuna_controller/lib/python3.10/site-packages",
+        "/home/robotics-05/ros2_ws/build/pub_sub",
+        "/home/robotics-05/ros2_ws/install/pub_sub/lib/python3.10/site-packages",
+        "/home/robotics-05/wmr_ws/install/mobile_robot_py_examples/lib/python3.10/site-packages",
+        "/home/robotics-05/wmr_ws/install/mobile_robot_controller/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/robotics-05/ros2_ws/install/arjuna_controller/lib/python3.10/site-packages",
+        "/home/robotics-05/ros2_ws/build/pub_sub",
+        "/home/robotics-05/ros2_ws/install/pub_sub/lib/python3.10/site-packages",
+        "/home/robotics-05/wmr_ws/install/mobile_robot_py_examples/lib/python3.10/site-packages",
+        "/home/robotics-05/wmr_ws/install/mobile_robot_controller/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
